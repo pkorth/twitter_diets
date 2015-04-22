@@ -1,0 +1,48 @@
+
+<filename: meat_dataset_no_stopwords.txt>
+Num tweets 6276
+Num users 325
+Max tweets/user 40
+Average tweets/user 19.3107692308
+Min tweets/user 1
+Vocab size 15549
+Highest Vocab TF 479
+Average Vocab TF 3.47501447038
+Hashtags 1084
+@user 4285
+
+<filename: veg_dataset_no_stopwords.txt>
+Num tweets 8221
+Num users 437
+Max tweets/user 167
+Average tweets/user 18.8123569794
+Min tweets/user 1
+Vocab size 19173
+Highest Vocab TF 694
+Average Vocab TF 3.73713033954
+Hashtags 1929
+@user 6323
+
+<filename:veg_dataset_eng.txt>
+Num tweets 8221
+Num users 437
+Max tweets/user 167
+Average tweets/user 18.8123569794
+Min tweets/user 1
+Vocab size 19176
+Highest Vocab TF 2678
+Average Vocab TF 5.17480183563
+Hashtags 1929
+@user 6323
+
+<filename: meat_dataset_eng.txt>
+Num tweets 6276
+Num users 325
+Max tweets/user 40
+Average tweets/user 19.3107692308
+Min tweets/user 1
+Vocab size 15551
+Highest Vocab TF 2236
+Average Vocab TF 4.81043019741
+Hashtags 1084
+@user 4285
